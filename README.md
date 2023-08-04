@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chess Strategy](https://github.com/Metz01/chess_startegy)
 
-- 🚀 Last project [CardPiece](https://github.com/Metz01/CarPiece)
+- 🚀 Last project [CarPiece](https://github.com/Metz01/CardPiece/)
 
 - 📫 How to reach me **camillomatteo01@gmail.com**
 
