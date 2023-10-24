@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matteo Camillo</h1>
 <h3 align="center">A Software developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metz" alt="metz" /></a> </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=metz" alt="metz" /></a> </p>
 
 - 🔭 I’m currently working on [Chess Strategy](https://github.com/Metz01/chess_startegy)
 
